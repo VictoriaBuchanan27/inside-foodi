@@ -11,7 +11,7 @@ const UserDisplay =()=>{
             </div>
         </div>
         <img src={require('./foodi.png')}  class="rounded float-left" alt="mockpic"/>
-        <img src={require('./foodi.png')} class="rounded float-right" alt="..."/>
+        <img src={require('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIIeZDqMMi0k2l7GujoteTscJHkJgptfvcc6PSzffP8yMTjLL4-w')} class="rounded float-right" alt="..."/>
         <div class="card border-success mb-3" style={{maxWidth: '18rem'}}>
             <div class="card-header">User Name</div>
             <div class="card-body text-success">
