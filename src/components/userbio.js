@@ -9,7 +9,7 @@ const UserBio =(props)=>{
         <div class="container">
             <h1 class="display-4">UserName</h1>
             <UserPicture />
-            <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+            <p class="lead">Hi im a movie star and i love this regular shemugla girl Vicky from the Bronx </p>
         </div>
         </div>
         </>
